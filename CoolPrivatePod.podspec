@@ -93,7 +93,7 @@ Pod::Spec.new do |spec|
 
   #spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   #spec.exclude_files = "Classes/Exclude"
-  spec.source_files = "SwiftDateWrapperPOD/**/*.{swift,h,m}"
+  spec.source_files = "CoolPrivatePod/**/*.{swift,h,m}"
   # spec.public_header_files = "Classes/**/*.h"
 
 

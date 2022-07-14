@@ -9,7 +9,7 @@ import Foundation
 class CoolPrivatePod{
     
     func getText()->String{
-        return "CoolPrivatePod"
+        return "CoolPrivatePod1"
     }
     
 }
